@@ -4,6 +4,12 @@ Este Mod contiene los mods necesarios para incluir las armas quitadas del mod Mi
 
 Archivo añadido ---> von.acp : Para limitar la distancia de voz directa a mas real, en vez de los 100 mts originales del juego.
 
+Añadido:
+- Arsenal US para que se pueda guardar con cualquier tipo de mod.
+- Carga explosiva M112 con las siguientes caracteristicas:
+  - Peso 1.50 Kg
+  - 1.5 Kgs de carga explosiva. (La vanilla es de 0.5 kgs) 
+
 Los mods que dependen son:
 
 - ZU-23
