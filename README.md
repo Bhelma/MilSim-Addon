@@ -14,10 +14,8 @@ Los mods que dependen son:
 
 - ZU-23
 - RHS
-- JLTV_Fix
 - Apache AH-64D y Apache Reborn
 - Tempo BMP3
-- Tactical Flava
 - SpaceCore
 - M17 Pistol
 - NGSW
