@@ -30,3 +30,5 @@ Los mods que dependen son:
 - ACE Medical
 - Zelicks Character
 - Stun Grenade
+- Gamemode FX
+- Mascaras de Gas
