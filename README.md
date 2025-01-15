@@ -21,7 +21,6 @@ Los mods que dependen son:
 - M4 Block II and URG-1
 - Laser Rangerfinder
 - M249 Scope Rails
-- Phoenix Studios Common
 - A2 Parche
 - Supressors
 - RIS Laser Attachment
