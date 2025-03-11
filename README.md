@@ -13,7 +13,6 @@ Añadido:
 Los mods que dependen son:
 
 "58D0FB3206B6F859" - Arma Reforger
-
 "595F2BF2F44836FB" - RHS Status Quo
 "5AB301290317994A" - Bacon Supressors
 "60C4CE4888FF4621" - ACE core
